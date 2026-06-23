@@ -76,8 +76,5 @@
 
 <p align="center">
 ⭐ “Consistency beats talent when talent doesn’t work hard.” ⭐
-</p>Animated typing intro
-🟢 GitHub contribution snake (very popular)
-🔵 Project cards with images
-🟡 Dark neon theme version
-🧠 Auto-updating GitHub activity graph
+</p>
+
