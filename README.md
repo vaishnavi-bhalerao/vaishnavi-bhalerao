@@ -5,8 +5,8 @@
 <h1 align="center">👩‍💻 Vaishnavi Bhalerao</h1>
 
 <p align="center">
-🚀 Full Stack Developer | Java • Spring Boot • Angular  
-🎓 BCA Student | Building real-world projects  
+🚀 Vaishnavi Bhalerao |Full Stack Developer | Java • Spring Boot • Angular  
+🎓 MCA Student | Building real-world projects  
 </p>
 
 ---
